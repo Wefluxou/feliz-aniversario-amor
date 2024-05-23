@@ -228,16 +228,26 @@ body{
     justify-content: space-evenly;
     align-items: flex-end;
     gap: 2vh;
-    width: 1%;
     margin-top: 10px;
     }
 
+    .fonte_n{
+        font-size: 40px;
+        color: white;
+    }
+    
+    .idade{
+        font-size: 20px;
+        color: white;
+        text-align: center;
+    }
+
     .hellok{
-        width: 100px;
+        width: 80px;
     }
 
     .stitch{
-        width: 100px;
+        width: 80px;
     }
 
     .foto1{
@@ -257,7 +267,7 @@ body{
     .hellow{
         position: absolute;
         margin-bottom: 220px;
-        margin-left: 400px;
+        margin-left: 350px;
         width: 80px;
     }
 
